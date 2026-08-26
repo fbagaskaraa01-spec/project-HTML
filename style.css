@@ -1,0 +1,17 @@
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(8, 1, 27);
+}
+.hightlight{
+    background-color: rgb(255, 140, 0);
+    font-weight: bold;
+}
+#judul-utama {
+    color: blue;
+    text-align: center;
+}
+.h1 {
+    background-color: rgb(42, 61, 165);
+    text-align: left;
+    color: chocolate;
+}
