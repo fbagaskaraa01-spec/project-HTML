@@ -1,0 +1,39 @@
+h1, h2, h3, h4, h5, h6 {
+ font-family: "Segoe UI", Arial, sans-serif;
+ color: #06d8c3;
+}
+nav a {
+ text-decoration: none;
+ color: #458d24;
+ font-weight: bold;
+}
+nav a:hover {
+ color: white;
+ background-color: #1F4E79;
+}
+body {
+ font-family:'Times New Roman', Times, serif;
+ line-height: 1.6;
+
+}
+h1 {
+ text-align: center;
+}
+button {
+ background-color: rgb(179, 110, 37);
+ color: white;
+ webkit-animation: 8px 16px;
+}
+button:hover {
+ background-color: rgba(67, 186, 34, 0.7);
+}
+li {
+    text-align: left;
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+}
+header {
+    background-color: rgb(1, 1, 172);
+    padding: 10px;
+    text-align: center;
+}
