@@ -1,0 +1,23 @@
+.kartu-profil{
+    width: 200px;
+    padding: 20px;
+    border: 5px solid rgb(219, 66, 0);
+    border-radius: 20px;
+    margin: auto;
+    background-color: burlywood;
+    text-align: center;
+    color: rgb(154, 102, 57);
+    box-shadow: 0 4px 15px chocolate;
+}
+.kartu-profil1{
+    box-sizing: border-box;
+    width: 200px;
+    padding: 20px;
+    border: 5px solid rgb(219, 66, 0);
+    border-radius: 20px;
+    margin: auto;
+    background-color: burlywood;
+    text-align: center;
+    color: rgb(154, 102, 57);
+    box-shadow: 0 4px 15px chocolate;
+}
